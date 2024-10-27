@@ -1,5 +1,5 @@
 # 💫 Acerca del Proyecto:
-🍙 Server Survival +1.20<br>💻 CodeSpace<br>🔐 Copia de Seguridad<br><br>
+🍙 Server Survival Tecnico +1.21<br>💻 CodeSpace<br>🔐 Copia de Seguridad<br><br>
 
 
 ## 🌐 Redes:
